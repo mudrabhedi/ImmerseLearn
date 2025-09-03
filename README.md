@@ -10,7 +10,7 @@ Check out the live application here:
 [https://immersi-learn.vercel.app/](https://immersi-learn.vercel.app/)
 
 Video of working AR in mobile phone:
-https://drive.google.com/file/d/1HKmQD12TLskrFHk9IveRvPkVSVPvg04r/view?usp=sharing
+https://drive.google.com/file/d/1EcNvgBglzdzk_SdSGAsHaUUK6VaUYhdh/view?usp=drivesdk
 
 
 ---
@@ -155,4 +155,5 @@ Contributions are welcome! Please refer to the `CONTRIBUTING.md` file for guidel
 ## License 📄
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
